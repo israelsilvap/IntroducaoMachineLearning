@@ -54,8 +54,10 @@ Os notebooks podem ser acessados diretamente via Google Colaboratory pelos links
 2. Instale as dependências:
    ```bash
    pip install -r requirements.txt
-3.Abra os notebooks e execute as células.
+3. Abra os notebooks e execute as células.
 
-##Referências
+
+## Referências
+
 - [Scikit-Learn - Documentação Oficial](https://scikit-learn.org/stable/)
 - [Matplotlib - Documentação](https://matplotlib.org/)
