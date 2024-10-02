@@ -36,7 +36,7 @@ Link para o notebook do Google Colaboratory:
 ## Relatório
 O relatório completo, com detalhes sobre a metodologia, algoritmos, conjunto de dados e os resultados obtidos, pode ser encontrado nos arquivos PDF incluídos neste repositório.
 
-- [Relatório Completo - PDF](Trabalho_Introducao_a_ML.pdf)
+- [Relatório Completo - PDF](https://github.com/israelsilvap/IntroducaoMachineLearning/blob/main/Trabalho%20Introducao%20a%20Machine%20Learning.pdf)
 
 ## Tecnologias Utilizadas
 - **Python**
